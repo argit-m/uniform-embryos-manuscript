@@ -1,0 +1,13 @@
+cluster,source,native,name,p_value,significant,term_size,query_size,intersection_size,effective_domain_size,precision,recall,query,neg_log10_pval,kmeans_id_v5
+8,GO:BP,GO:0046665,amnioserosa maintenance,0.0006970303,True,6,35,4,6053,0.114286,0.666667,query_1,3.156748,4
+8,GO:BP,GO:0001894,tissue homeostasis,0.009459572,True,46,35,6,6053,0.171429,0.130435,query_1,2.024128,4
+8,GO:BP,GO:0060249,anatomical structure homeostasis,0.03502008,True,57,35,6,6053,0.171429,0.105263,query_1,1.455683,4
+6,GO:BP,GO:0009887,animal organ morphogenesis,5.621241e-07,True,499,91,30,6053,0.32967,0.06012,query_1,6.250168,9
+6,GO:BP,GO:0035150,regulation of tube size,1.242103e-06,True,33,91,10,6053,0.10989,0.30303,query_1,5.905843,9
+6,GO:BP,GO:0048731,system development,8.682301e-06,True,966,91,40,6053,0.43956,0.041408,query_1,5.061365,9
+9,GO:BP,GO:0060322,head development,0.01228304,True,84,33,7,6053,0.212121,0.083333,query_1,1.910694,11
+9,GO:BP,GO:0048731,system development,0.01836487,True,966,33,18,6053,0.545455,0.018634,query_1,1.736012,11
+9,GO:BP,GO:0048513,animal organ development,0.04313977,True,793,33,16,6053,0.484848,0.020177,query_1,1.365122,11
+3,GO:BP,GO:0051252,regulation of RNA metabolic process,5.4522890000000005e-39,True,790,974,273,6053,0.280287,0.34557,query_1,38.263421,6
+3,GO:BP,GO:0019219,regulation of nucleobase-containing compound metabolic process,3.9235699999999996e-36,True,841,974,279,6053,0.286448,0.331748,query_1,35.406319,6
+3,GO:BP,GO:0006351,DNA-templated transcription,1.223424e-34,True,747,974,255,6053,0.261807,0.341365,query_1,33.912423,6
